@@ -1,2 +1,2 @@
 # hidan
-waktunya kok tidak berubremoah
+hore sudah berhasil
