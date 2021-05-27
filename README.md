@@ -1,2 +1,2 @@
 # hidan
-perubahan kode dilacak oleh git
+waktunya kok tidak berubremoah
